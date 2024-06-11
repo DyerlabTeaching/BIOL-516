@@ -55,4 +55,5 @@ rsconnect/
 
 
 .DS_Store
+Modules/*
 
