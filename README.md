@@ -17,6 +17,10 @@ Transform: Pulling data into your analysis ecosystem is not sufficient. Often th
 Model: The application of models to subsets of data is often the step that takes the least amount of time and effort. However, the application of a model to data is not the endpoint. The model must be visualized and, many times, the underlying data or derivate data must be transformed and submitted to subsequent models.
 Communicate: The effort we put into research and analyses is meaningless without effective communication of your data and findings to a broad audience. Here we will focus on how to develop effective data communication strategies and formats.
 
+<p align="center">
+<img src="media/workflow.png">
+</p>
+
 ## Course Learning Objectives
 
 The purpose of this course is to help you build your data skills and to develop a foundational understanding upon which subsequent courses will build. The overarching goal here is to develop a working knowledge of the R statistical computing language and enough proficiency to import raw data and then iterate through the visualization, manipulation, and analysis steps in the creation of output that is easily communicated to a scientific audience.
