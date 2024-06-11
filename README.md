@@ -37,7 +37,7 @@ This course has a total of 10 independent learning modules.  Each of these will 
 
 Module  | Topic                                    
 --------|------------------------------------------
-1       | Background Data Literacy                 
+1       | [Background Data Literacy](https://github.com/DyerlabTeaching/Population-Genetic-Data-Literacy)                 
 2       | Genetic Variation                        
 3       | Inbreeding & Pedigrees                   
 4       | Drift & Population Size                  
