@@ -5,15 +5,15 @@
 
 Module | Topic
 --------|---------
-1       | Background Data Literacy \\
-2       | Genetic Variation \\
-3       | Inbreeding & Pedigrees \\
-4       | Drift & Population Size \\
-5       | Mutation \\
-6       | Parentage Analysis & Forensic Genetics \\
-7       | Gene Flow & Structure  \\
-8       | The Coalescent Process \\
-9       | Linkage & Recombination \\
-10      | Selction \\
+1       | Background Data Literacy 
+2       | Genetic Variation 
+3       | Inbreeding & Pedigrees 
+4       | Drift & Population Size 
+5       | Mutation 
+6       | Parentage Analysis & Forensic Genetics 
+7       | Gene Flow & Structure  
+8       | The Coalescent Process 
+9       | Linkage & Recombination 
+10      | Selection 
 --------|-------
 
