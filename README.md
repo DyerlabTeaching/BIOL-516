@@ -38,15 +38,15 @@ This course has a total of 10 independent learning modules.  Each of these will 
 Module  | Topic                                    
 --------|------------------------------------------
 1       | [Background Data Literacy](https://github.com/DyerlabTeaching/Population-Genetic-Data-Literacy)                 
-2       | Genetic Variation                        
-3       | Inbreeding & Pedigrees                   
-4       | Drift & Population Size                  
-5       | Mutation                                 
-6       | Gene Flow & Structure                    
-7       | Parentage Analysis & Forensic Genetics   
-8       | Selection                                
-9       | Linkage & Recombination                  
-10      | The Coalescent Process                   
+2       | [Genetic Variation](https://github.com/DyerlabTeaching/Genetic-Variation)                        
+3       | [Inbreeding & Pedigrees](https://github.com/DyerlabTeaching/Inbreeding-and-Pedigrees)                   
+4       | [Drift & Population Size](https://github.com/DyerlabTeaching/Drift-Population-Size)                  
+5       | [Mutation](https://github.com/DyerlabTeaching/Mutation)                                 
+6       | [Gene Flow & Structure](https://github.com/DyerlabTeaching/Gene-Flow-and-Structure)                    
+7       | [Parentage Analysis & Forensic Genetics](https://github.com/DyerlabTeaching/Parentage-Forensic-Genetics)   
+8       | [Selection](https://github.com/DyerlabTeaching/Selection)                                
+9       | [Linkage & Recombination](https://github.com/DyerlabTeaching/Linkage-and-Recombination)                  
+10      | [The Coalescent Process](https://github.com/DyerlabTeaching/Coalescent)                   
 
 
 ## Evaluations
