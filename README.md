@@ -42,8 +42,8 @@ Module  | Topic
 3       | Inbreeding & Pedigrees                   
 4       | Drift & Population Size                  
 5       | Mutation                                 
-6       | Parentage Analysis & Forensic Genetics   
-7       | Gene Flow & Structure                    
+6       | Gene Flow & Structure                    
+7       | Parentage Analysis & Forensic Genetics   
 8       | Selection                                
 9       | Linkage & Recombination                  
 10      | The Coalescent Process                   
